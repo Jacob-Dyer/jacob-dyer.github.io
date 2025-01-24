@@ -27,9 +27,16 @@ url: "https://notes.jacobdyer.com.au" # the base hostname & protocol for your si
 github_username:  jacob-dyer
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+minima:
+  skin: dark
+
+
+header_files:
+ - about.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
