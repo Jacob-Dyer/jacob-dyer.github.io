@@ -2,6 +2,8 @@
 layout: page
 title: AI Generated Avatars
 permalink: /ai-avatar-videos/
+resource: true
+categories: [musings]
 ---
 
 Never in my life has there been a faster moving field than Generative AI. As such, this content is current as of February 2025, and is probably old and irrelevant any time after that. _What LLMs struggle with today, they tend to be better at tomorrow._

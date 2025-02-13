@@ -35,7 +35,7 @@ plugins:
 minima:
   skin: dark
 
-
+category-list: [code, research, musings]
 
 header_files:
  - about.markdown
