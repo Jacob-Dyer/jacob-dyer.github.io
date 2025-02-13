@@ -10,3 +10,18 @@ p {
     line-height: 1.75em;
     font-size: 1rem; // Ensure paragraphs scale with the html font size
 }
+
+div.wrapper {
+    max-width: 1000px;
+}
+
+.references {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.references li {
+    margin-bottom: 1em;
+    padding-left: 1.5em;
+    text-indent: -1.5em;
+}
