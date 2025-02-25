@@ -20,6 +20,9 @@ Compare *Fake Jacob* and *Real Jacob* below. Which one do you think is the stron
 <iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.net.au/media/cb4ded53-86dd-487e-a165-592fccbb1bab/public?autoplay=false&automute=false"></iframe>
 <iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.net.au/media/9cf93d6f-f0fd-48b7-98f5-71c984df19e8/public?autoplay=false&automute=false"></iframe>
 
+Here's another Fake Jacob from a different tool:
+<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.net.au/media/595f3243-9737-43d5-b27a-73eba5d917d2/public?autoplay=false&automute=false"></iframe>
+
 On an infinite timeline, these models will get better, and the presentation style of the avatars will improve. They'll lose the ['uncanny valley'](https://en.wikipedia.org/wiki/Uncanny_valley) stigma, and be indistinguishable even to ourselves. But will they ever understand your domain to the extent that they can explain it better than you? Well, probably, but just how soon I guess depends on your skills as an instructor. But if you're a teacher at heart, why outsource the actual teaching? Here's what happened when I fed my PowerPoint to an AI video generator:
 
 <iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.net.au/media/f95ec5d1-313a-484f-8ff1-6c6b08fd0306/public?autoplay=false&automute=false"></iframe>
