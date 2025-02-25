@@ -58,6 +58,10 @@ Generative video is the cool new thing, building on the work of generative image
 
 Consider an IV canulation, and the specific techniques taught at ACU to student. I've filmed demonstrations of these for both Paramedicine and Nursing degrees, and the details are pretty intricate. Unless a generative model has been trained on these videos in particular, it won't ever be able to understand the concepts of flash-back, or the precise angle required for the needle, etc. While it will excel at producing the generic and the common, it will always struggle with the hyper-specific, and with people's health on the line, it will be a _long_ time before it can confidently be used in this way, if ever.
 
+Even a more simple concept like inserting nasal prongs for oxygen delivery is something Sora struggles with today.
+<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.net.au/media/9f852dae-1d70-4f8c-a1f8-f32de3934bfa/public?autoplay=false&automute=false"></iframe>
+<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.net.au/media/a9a76d11-a96a-48d2-8b07-c91efd28f20a/public?autoplay=false&automute=false"></iframe>
+
 ****
 
 ## The cost
