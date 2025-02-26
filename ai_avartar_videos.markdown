@@ -17,23 +17,23 @@ When first coming to this topic, everyone immediately thinks "AI can replace my 
 
 Compare *Fake Jacob* and *Real Jacob* below. Which one do you think is the stronger or clearer delivery?
 
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.net.au/media/cb4ded53-86dd-487e-a165-592fccbb1bab/public?autoplay=false&automute=false"></iframe>
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.net.au/media/9cf93d6f-f0fd-48b7-98f5-71c984df19e8/public?autoplay=false&automute=false"></iframe>
+<iframe allowfullscreen frameborder=0 src="https://echo360.net.au/media/cb4ded53-86dd-487e-a165-592fccbb1bab/public?autoplay=false&automute=false"></iframe>
+<iframe allowfullscreen frameborder=0 src="https://echo360.net.au/media/9cf93d6f-f0fd-48b7-98f5-71c984df19e8/public?autoplay=false&automute=false"></iframe>
 
-Here's another Fake Jacob from a different tool:
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.net.au/media/595f3243-9737-43d5-b27a-73eba5d917d2/public?autoplay=false&automute=false"></iframe>
 
 On an infinite timeline, these models will get better, and the presentation style of the avatars will improve. They'll lose the ['uncanny valley'](https://en.wikipedia.org/wiki/Uncanny_valley) stigma, and be indistinguishable even to ourselves. But will they ever understand your domain to the extent that they can explain it better than you? Well, probably, but just how soon I guess depends on your skills as an instructor. But if you're a teacher at heart, why outsource the actual teaching? Here's what happened when I fed my PowerPoint to an AI video generator:
 
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.net.au/media/f95ec5d1-313a-484f-8ff1-6c6b08fd0306/public?autoplay=false&automute=false"></iframe>
+<iframe allowfullscreen frameborder=0 src="https://echo360.net.au/media/f95ec5d1-313a-484f-8ff1-6c6b08fd0306/public?autoplay=false&automute=false"></iframe>
 
-For now I give synthetic video 2/5 stars for creating lecture content.
+Here's another Fake Jacob from a different tool:
+
+<iframe allowfullscreen frameborder=0 src="https://echo360.net.au/media/595f3243-9737-43d5-b27a-73eba5d917d2/public?autoplay=false&automute=false"></iframe>
 
 ## 2: Student Feedback
 One thing that my avatar can do that I cannot is scale. I only have so much time in the day, but if I can mass-produce some scripts for my avatar, I can happily generate as many videos as my wallet can bear. I tested this by having Claude 3.5 generate feedback scripts for my third-year education essay. Compare the AI-generated feedback with my lecturer's actual feedback:
 
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.net.au/media/1f8748bc-c8dc-4db6-a1e2-e24a95e67f52/public?autoplay=false&automute=false"></iframe>
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.net.au/media/b77feea5-05e7-486d-a241-14eba9d893d3/public?autoplay=false&automute=false"></iframe>
+<iframe allowfullscreen frameborder=0 src="https://echo360.net.au/media/1f8748bc-c8dc-4db6-a1e2-e24a95e67f52/public?autoplay=false&automute=false"></iframe>
+<iframe allowfullscreen frameborder=0 src="https://echo360.net.au/media/b77feea5-05e7-486d-a241-14eba9d893d3/public?autoplay=false&automute=false"></iframe>
 
 Here's a video of me, directly addressing the student, giving feedback on an assignment. This seems like a great use of this tech, right? Timely personalised feedback  (whether augmented with GenAI or not) is _fundamental_ to student learning [(Hattie, 2012)](#references), but is this the best way to get it across?
 
@@ -44,7 +44,7 @@ Imagine you've just watched a micro-lecture, the video was engaging and helpful,
 
 Well, it could be. Here's what happened when I asked ChatGPT to explain a concept and fed its response to my video generator:
 
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.net.au/media/13bca053-6b4d-493f-b6f8-93b05898a565/public?autoplay=false&automute=false"></iframe>
+<iframe allowfullscreen frameborder=0 src="https://echo360.net.au/media/13bca053-6b4d-493f-b6f8-93b05898a565/public?autoplay=false&automute=false"></iframe>
 
 Now, while this might be cool, I'd ask: is it any better than just giving the student the written text? Today, this is just a lossy way to transmit the information, like taking a bad photocopy of a hand-written paragraph. In the future the video presentation might be flawless, but is it actually _adding_ anything? 
 
@@ -62,8 +62,8 @@ Generative video is the cool new thing, building on the work of generative image
 Consider an IV canulation, and the specific techniques taught at ACU to student. I've filmed demonstrations of these for both Paramedicine and Nursing degrees, and the details are pretty intricate. Unless a generative model has been trained on these videos in particular, it won't ever be able to understand the concepts of flash-back, or the precise angle required for the needle, etc. While it will excel at producing the generic and the common, it will always struggle with the hyper-specific, and with people's health on the line, it will be a _long_ time before it can confidently be used in this way, if ever.
 
 Even a more simple concept like inserting nasal prongs for oxygen delivery is something Sora struggles with today.
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.net.au/media/9f852dae-1d70-4f8c-a1f8-f32de3934bfa/public?autoplay=false&automute=false"></iframe>
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.net.au/media/a9a76d11-a96a-48d2-8b07-c91efd28f20a/public?autoplay=false&automute=false"></iframe>
+<iframe allowfullscreen frameborder=0 src="https://echo360.net.au/media/9f852dae-1d70-4f8c-a1f8-f32de3934bfa/public?autoplay=false&automute=false"></iframe>
+<iframe allowfullscreen frameborder=0 src="https://echo360.net.au/media/a9a76d11-a96a-48d2-8b07-c91efd28f20a/public?autoplay=false&automute=false"></iframe>
 
 ****
 

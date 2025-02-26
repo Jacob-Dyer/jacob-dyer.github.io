@@ -25,3 +25,11 @@ div.wrapper {
     padding-left: 1.5em;
     text-indent: -1.5em;
 }
+
+iframe {
+    width: 80%;
+    aspect-ratio: 16 / 10;
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+}
