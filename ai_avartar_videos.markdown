@@ -10,10 +10,10 @@ Never in my life has there been a faster moving field than Generative AI. As suc
 
 As someone who produces educational videos for a living, this topic cuts a little close to home, and maybe that clouds my judgment. I do certainly have a higher bar than most as to what I consider "good enough" when it comes to the quality of AI-generated video, but the quality issue is one that will disappear with time. While today's models might still make videos that give people the heebie-jeebies, tomorrow's ones won't. 
 
-So with that in mind, what are the plausible use cases in the now and near future of GenAI authored videos in higher ed? And how will do they work *today*, and how might they work *tomorrow* in this near future?
+So with that in mind, what are the plausible use cases in the now and near future of GenAI-authored videos in higher ed? And how will do they work *today*, and how might they work *tomorrow* in this near future?
 
 ## 1: Lecture Content
-When first coming to this topic, everyone immediately thinks "AI can replace my leuutres!". To me, this is the last place you'd want to use synthetic video - if you care about teaching[^1]. [Research abounds](https://staff.acu.edu.au/our_university/centre-for-education-and-innovation/educational-technologies/creating-video-resources/multimedia-design-principles) as to how we can make video-based learning more effective for student learning [(Mayer, 2024)](#references) and how we can use it to build social connection with the students, even in a one-way delivery mechanism like flipped classrooms. This is important to get right, and it's not something I'd trust to the synthetic videos of today. Gestures [(Li et al., 2019)](#references) can have a marked effect on learning, as can your tone [(Suen & Hung, 2024)](#references)] and your facial expressions [(Schneider et al., 2022)](#references). With synthetic video, you loose control of all of that and more. When you're explaining tricky concepts, the way you present can have a really big impact on how that information is perceived by your audience. 
+When first coming to this topic, everyone immediately thinks "AI can replace my lectures!". To me, this is the last place you'd want to use synthetic video - if you care about teaching[^1]. [Research abounds](https://staff.acu.edu.au/our_university/centre-for-education-and-innovation/educational-technologies/creating-video-resources/multimedia-design-principles) as to how we can make video-based learning more effective for student learning [(Mayer, 2024)](#references) and how we can use it to build social connection with the students, even in a one-way delivery mechanism like flipped classrooms. This is important to get right, and it's not something I'd trust to the synthetic videos of today. Gestures [(Li et al., 2019)](#references) can have a marked effect on learning, as can your tone [(Suen & Hung, 2024)](#references)] and your facial expressions [(Schneider et al., 2022)](#references). With synthetic video, you loose control of all of that and more. When you're explaining tricky concepts, the way you present can have a really big impact on how that information is perceived by your audience. 
 
 Compare *Fake Jacob* and *Real Jacob* below. Which one do you think is the stronger or clearer delivery?
 
@@ -25,9 +25,6 @@ On an infinite timeline, these models will get better, and the presentation styl
 
 <iframe allowfullscreen frameborder=0 src="https://echo360.net.au/media/f95ec5d1-313a-484f-8ff1-6c6b08fd0306/public?autoplay=false&automute=false"></iframe>
 
-Here's another Fake Jacob from a different tool:
-
-<iframe allowfullscreen frameborder=0 src="https://echo360.net.au/media/595f3243-9737-43d5-b27a-73eba5d917d2/public?autoplay=false&automute=false"></iframe>
 
 ## 2: Student Feedback
 One thing that my avatar can do that I cannot is scale. I only have so much time in the day, but if I can mass-produce some scripts for my avatar, I can happily generate as many videos as my wallet can bear. I tested this by having Claude 3.5 generate feedback scripts for my third-year education essay. Compare the AI-generated feedback with my lecturer's actual feedback:
@@ -50,11 +47,20 @@ Now, while this might be cool, I'd ask: is it any better than just giving the st
 
 You could scale this up to make an agent that answers questions about assessments (due date, extension policies), or timetabling, or other administrivia that often bogs down LICs. But again, today, you have the choice of almost immediately giving them a written response, or making them  wait to see a crappy video giving them the exact same information.
 
-
 ## 4: Translations to other languages
 Combining synthetic video with machine translation seems like a great opportunity, students can hear what we have to say in their native tongue. But in actuality it creates two layers of potential errors. While students might benefit from hearing content in their native language, complex domain-specific concepts often lose meaning in translation [(Yu et al., 2024)](#references). This idea has potential, but we're not there yet - try running a complicated domain-specific concept full of unique vocabulary through Google translate, and see what comes out.
 
-Unfortunately, unless I'm willing to cough up "enterprise money", I can't test this with that platform I'm using.
+HeyGen seems to do a pretty good job of making me speak Cantonese or Spanish, though I'm told that the translations leave a bit to be desired. 
+
+<iframe allowfullscreen frameborder=0 src="https://echo360.net.au/media/3424fa3c-6b07-4fda-9381-a5459b11bf76/public?autoplay=false&automute=false"></iframe>
+<iframe allowfullscreen frameborder=0 src="https://echo360.net.au/media/dade0bd8-82d8-4fa0-8a01-6e2e9add0e5b/public?autoplay=false&automute=false"></iframe>
+
+
+Perhaps a more interesting approach though is for non-native English speakers to teach in their native language, and have it translated to English. This starts to hit at some questions of identity and other squishy subjects, but the example we tried with Perla speaking first in Spanish, and then in English as a comparison, worked pretty well. One piece of technical language not correctly translated from Spanish to English, but otherwise okay.
+
+<iframe allowfullscreen frameborder=0 src="https://echo360.net.au/media/fca12aa8-dbe2-4cef-b7fa-c80e57927689/public?autoplay=false&automute=false"></iframe>
+<iframe allowfullscreen frameborder=0 src="https://echo360.net.au/media/ebcc8a7b-f677-4b6d-831b-4ae108c23764/public?autoplay=false&automute=false"></iframe>
+<iframe allowfullscreen frameborder=0 src="https://echo360.net.au/media/48963e25-2bb9-4e9f-955d-f935cbb09ef1/public?autoplay=false&automute=false"></iframe>
 
 ## 5: Demonstrations
 Generative video is the cool new thing, building on the work of generative imagery and putting it in motion. While there are certainly some cool things you can do with it, for the purposes of teaching, and specifically demonstrations, I doubt this type of language-prompted tech will _ever_ be good enough to fully replace real demonstrations. My reasoning comes down to the source material these things are trained on. 
@@ -76,7 +82,7 @@ To generate the videos above, I used [Synesthesia](http://synthesia.io). To get 
 So in terms of scalability today it's still pretty expensive, though tomorrow the cost could drop dramatically.
 
 ## TL/DR
-As of today, I think synthetic video isn't worth the effort in higher-ed. It generally results in a sub-par experience to simply reading the text you fed it in the first place, whether that is hand-crafted text or something from an LLM. That said, the quality is only going to improve, and we may hit an inflection point in the coming years where it is _good enough_ to use in some instances.
+As of today, I think synthetic video isn't worth the effort in higher-ed. It generally results in a sub-par experience to simply reading the text you fed it in the first place, whether that is hand-crafted text or something from an LLM. That said, the quality is only going to improve, and we may hit an inflection point in the coming months or years where it is _good enough_ to use in some instances.
 
 ****
 
